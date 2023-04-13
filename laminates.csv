@@ -1,0 +1,892 @@
+design_no,laminate_code,page_no,assigned_value,finish_name,laminate
+1322,AB,54,1322,,verticalwood
+1466,AL,45,1466,,verticalwood
+1161 (3),AR,28,11612,,stone solidcolor
+1162 (2),AR,28,11622,glossy,stone solidcolor
+1620,AR,28,1620,,stone
+1630 (2),AR,28,16301,,stone
+1669,AS,52,1669,,verticalwood
+1670,AS,52,1670,,verticalwood
+1675,AS,43,1675,,verticalwood
+1676,AS,43,1676,,verticalwood
+1677,AS,43,1677,,verticalwood
+132 (9),AW,64,132200,,verticalwood solidcolor
+491 (2),AW,64,4911,,verticalwood
+492 (2),AW,64,4921,,verticalwood
+839 (2),AW,64,8391,,verticalwood
+1635 (2),BG,29,16351,,stone
+1637 (2),BG,29,16371,,stone
+1641,BG,35,1641,matt,stone vibrant
+1642,BG,35,1642,matt,stone vibrant
+1655,BG,29,1655,,stone
+1721 (2),BG,30,17211,,vibrant
+1722 (2),BG,30,17221,,vibrant
+1725,BG,30,1725,,
+1654A,BG,29,165410,,
+1643,BL,36,1643,matt,leather
+1644,BL,36,1644,matt,leather
+1743,BM,,1743,,
+1744,BM,,1744,,
+1745,BM,,1745,,
+1746,BM,,1746,,
+54,BO,65,54,,
+1653,BR,46,1653,,verticalwood
+1685,BR,46,1685,,verticalwood
+538,BW,66,538,,verticalwood
+539,BW,66,539,,verticalwood
+540,BW,66,540,,verticalwood
+541,BW,66,541,,verticalwood
+542,BW,66,542,,horizontalwood exoticwood
+568,BW,,568,,
+33 (2),CB,73,332,,leather
+132 (9),CB,73,1324,,leather solidcolor
+460,CC,77,460,,solidcolor vibrant
+461,CC,77,461,,solidcolor vibrant
+462,CC,77,462,,
+463,CC,77,463,,solidcolor vibrant
+1551,CE,30,1551,,stone 
+1552,CE,30,1552,,stone
+1553,CE,30,1553,,stone
+26 (2),CF,81,261,,verticalwood
+27 (3),CF,81,273,,verticalwood
+39,CF,80,39,,verticalwood
+40,CF,80,40,,verticalwood
+41,CF,80,41,,verticalwood
+48 (3),CF,82,483,,verticalwood
+103,CF,84,103,,
+106,CF,84,106,,solidcolor
+109,CF,84,109,,solidcolor
+114,CF,84,114,,solidcolor
+117,CF,84,117,,solidcolor
+127,CF,84,127,,
+129 (3),CF,84,1293,,solidcolor
+131,CF,84,131,,solidcolor
+132 (9),CF,84,1328,,solidcolor
+138 (2),CF,84,1382,,solidcolor
+150,CF,84,150,,solidcolor
+158,CF,84,158,,solidcolor
+166,CF,84,166,,solidcolor
+168,CF,84,168,,solidcolor
+171,CF,84,171,,solidcolor
+183,CF,84,183,,solidcolor
+184 (2),CF,84,1842,,
+187,CF,84,187,,solidcolor
+203,CF,84,203,,solidcolor
+207,CF,84,207,,solidcolor
+209,CF,84,209,,solidcolor
+212,CF,84,212,,solidcolor
+214,CF,84,214,,solidcolor
+216,CF,84,216,,solidcolor
+217,CF,84,217,,solidcolor
+218,CF,84,218,,
+219,CF,84,219,,solidcolor
+220,CF,84,220,,solidcolor
+224,CF,84,224,,solidcolor
+226,CF,84,226,,solidcolor
+228,CF,84,228,,solidcolor
+229,CF,84,229,,solidcolor
+230,CF,84,230,,solidcolor
+231 (2),CF,84,2312,,solidcolor
+234,CF,84,234,,solidcolor
+235,CF,84,235,,solidcolor
+236 (2),CF,84,2362,,solidcolor
+250 (3),CF,84,2502,,solidcolor
+301,CF,77,301,,stone
+302,CF,77,302,,stone
+440 (3),CF,82,4403,matt,verticalwood
+464,CF,77,464,,stone
+470,CF,80,470,,verticalwood
+471,CF,80,471,,verticalwood
+472,CF,82,472,,verticalwood
+473,CF,82,473,,verticalwood
+474,CF,79,474,,verticalwood
+475,CF,79,475,,verticalwood
+476,CF,79,476,,verticalwood
+477,CF,81,477,,verticalwood
+478 (2),CF,82,4782,,horizontalwood
+479 (2),CF,82,4792,,horizontalwood
+480,CF,81,480,,verticalwood exoticwood
+481,CF,79,481,,verticalwood
+482,CF,79,482,,verticalwood
+483 (2),CF,80,4832,,verticalwood
+484 (2),CF,80,4842,,verticalwood
+485 (2),CF,81,4852,,verticalwood
+486,CF,81,486,,verticalwood
+487,CF,79,487,,verticalwood
+489,CF,79,489,,verticalwood
+490,CF,80,490,,verticalwood
+491 (2),CF,79,4912,,verticalwood
+492 (2),CF,79,4922,,verticalwood
+521,CF,82,521,,verticalwood
+563,CF,81,563,,verticalwood
+583 (2),CF,80,5832,,verticalwood
+589,CF,79,589,,verticalwood
+597,CF,81,597,,verticalwood
+598,CF,81,598,,verticalwood
+812,CF,80,812,,verticalwood
+813,CF,80,813,,verticalwood
+839 (2),CF,79,8392,,verticalwood
+903 (2),CF,82,9032,,horizontalwood
+904 (2),CF,82,9042,,horizontalwood
+905 (3),CF,82,9053,,horizontalwood
+923,CF,81,923,,verticalwood
+935,CF,82,935,,verticalwood
+952,CF,81,952,,verticalwood
+953,CF,81,953,,verticalwood
+986 (2),CF,82,9862,,horizontalwood exoticwood
+987 (2),CF,82,9872,,horizontalwood exoticwood
+992 (2),CF,80,9922,,verticalwood
+053A,CF,84,5310,,solidcolor
+053D (2),CF,84,53420,,solidcolor
+117A,CF,84,11710,,solidcolor
+132 (9),CM,84,1329,matt,solidcolor
+250 (3),CM,84,2503,matt,solidcolor
+1104 (4),CRYSTAL,3,11041,glossy,solidcolor
+1105 (2),CRYSTAL,3,11051,glossy,solidcolor
+1111 (2),CRYSTAL,4,11111,glossy,solidcolor
+1112 (7),CRYSTAL,2,11121,glossy,solidcolor
+1119 (2),CRYSTAL,1,11191,glossy,solidcolor
+1120 (2),CRYSTAL,1,11201,glossy,solidcolor
+1123 (4),CRYSTAL,2,11231,glossy,solidcolor
+1141,CRYSTAL,4,1141,glossy,solidcolor
+1142,CRYSTAL,4,1142,glossy,solidcolor
+1143,CRYSTAL,3,1143,glossy,solidcolor
+1161 (3),CRYSTAL,1,11611,matt glossy,solidcolor
+1162 (2),CRYSTAL,1,11621,glossy,solidcolor
+1163 (2),CRYSTAL,1,11631,glossy,solidcolor
+1164 (4),CRYSTAL,1,11641,glossy,solidcolor
+1165,CRYSTAL,1,1165,glossy,solidcolor
+1166 (5),CRYSTAL,1,11661,glossy,solidcolor
+1167,CRYSTAL,1,1167,glossy,solidcolor
+1168,CRYSTAL,1,1168,glossy,solidcolor
+1169,CRYSTAL,2,1169,glossy,solidcolor
+1170,CRYSTAL,2,1170,glossy,solidcolor
+1171,CRYSTAL,2,1171,glossy,solidcolor
+1172 (2),CRYSTAL,2,11721,glossy,solidcolor
+1173,CRYSTAL,4,1173,glossy,solidcolor
+1174 (3),CRYSTAL,3,11741,,solidcolor
+1175 (4),CRYSTAL,3,11751,glossy,solidcolor
+1176 (2),CRYSTAL,3,11761,glossy,solidcolor
+1177 (4),CRYSTAL,3,11771,glossy,solidcolor
+1178 (2),CRYSTAL,2,11781,glossy,solidcolor
+1179 (3),CRYSTAL,2,11791,glossy,solidcolor
+1180 (3),CRYSTAL,4,11801,glossy,solidcolor
+1181 (2),CRYSTAL,2,11811,glossy,solidcolor
+1182,CRYSTAL,3,1182,glossy,solidcolor
+1183 (2),CRYSTAL,3,11831,glossy,
+1184 (2),CRYSTAL,4,11841,glossy,solidcolor
+1185 (3),CRYSTAL,2,11851,glossy,solidcolor
+1186 (2),CRYSTAL,4,11861,glossy,solidcolor
+1187,CRYSTAL,2,1187,glossy,solidcolor
+1188 (2),CRYSTAL,1,11881,glossy,solidcolor
+1189,CRYSTAL,1,1189,glossy,solidcolor
+1190,CRYSTAL,2,1190,glossy,solidcolor
+1201,CRYSTAL,8,1201,glossy,stone vibrant
+1202,CRYSTAL,8,1202,glossy,stone vibrant
+1203,CRYSTAL,6,1203,glossy,stone
+1204,CRYSTAL,6,1204,glossy,stone
+1205,CRYSTAL,9,1205,glossy,vibrant
+1206,CRYSTAL,9,1206,glossy,vibrant
+1207,CRYSTAL,9,1207,glossy,vibrant
+1208,CRYSTAL,6,1208,glossy,stone
+1209,CRYSTAL,6,1209,glossy,stone
+1210 (2),CRYSTAL,12,12101,glossy,verticalwood exoticwood
+1211 (2),CRYSTAL,12,12111,glossy,verticalwood exoticwood
+1212 (2),CRYSTAL,12,12121,glossy,verticalwood exoticwood
+1213 (2),CRYSTAL,8,12131,matt glossy,stone vibrant
+1214 (2),CRYSTAL,5,12141,glossy,stone
+1215 (2),CRYSTAL,5,12151,glossy,stone vibrant
+1221,CRYSTAL,6,1221,glossy,vibrant
+1222,CRYSTAL,6,1222,glossy,vibrant
+1223,CRYSTAL,7,1223,,
+1224,CRYSTAL,7,1224,,
+1226,CRYSTAL,6,1226,,
+1227 (2),CRYSTAL,8,12271,matt glossy,stone vibrant
+1234,CRYSTAL,10,1234,,
+1235,CRYSTAL,10,1235,glossy,fabric
+1236,CRYSTAL,8,1236,,
+1237,CRYSTAL,8,1237,,
+1238,CRYSTAL,9,1238,glossy,vibrant
+1239,CRYSTAL,9,1239,glossy,vibrant
+1240 (2),CRYSTAL,5,12401,glossy,vibrant
+1242 (2),CRYSTAL,12,12421,matt glossy,verticalwood exoticwood
+1243,CRYSTAL,12,1243,matt glossy,verticalwood exoticwood
+1244,CRYSTAL,12,1244,glossy,verticalwood exoticwood
+1245 (2),CRYSTAL,12,12451,glossy,verticalwood exoticwood
+1246 (2),CRYSTAL,12,12461,glossy,verticalwood exoticwood
+1247,CRYSTAL,7,1247,glossy,vibrant
+1252,CRYSTAL,10,1252,glossy,
+1253,CRYSTAL,10,1253,glossy,
+1254,CRYSTAL,10,1254,glossy,
+1255,CRYSTAL,10,1255,glossy,
+1256,CRYSTAL,10,1256,glossy,
+1257,CRYSTAL,10,1257,glossy,
+1258 (3),CRYSTAL,10,12581,glossy,solidcolor vibrant
+1259 (3),CRYSTAL,10,12591,,solidcolor vibrant
+1260 (2),CRYSTAL,10,12601,,solidcolor vibrant
+1261 (2),CRYSTAL,11,12611,,exoticwood
+1262 (2),CRYSTAL,11,12621,,exoticwood
+1263 (2),CRYSTAL,11,12631,,exoticwood
+1264 (2),CRYSTAL,7,12641,,stone vibrant
+1265 (2),CRYSTAL,7,12651,glossy,vibrant
+1271 (2),CRYSTAL,14,12711,,
+1272 (2),CRYSTAL,14,12721,,
+1273,CRYSTAL,14,1273,,
+1274,CRYSTAL,14,1274,,
+1275 (2),CRYSTAL,5,12751,,
+1278,CRYSTAL,25,1278,,
+1279,CRYSTAL,25,1279,,
+1280,CRYSTAL,25,1280,,
+1104 (4),CRYSTAL mattY+,23,11042,matt,solidcolor
+1123 (4),CRYSTAL mattY+,23,11232,matt,solidcolor
+1164 (4),CRYSTAL mattY+,23,11643,,
+1166 (5),CRYSTAL mattY+,23,11664,matt,solidcolor
+1174 (3),CRYSTAL mattY+,23,11743,matt,solidcolor
+1176 (2),CRYSTAL mattY+,23,11762,matt,solidcolor
+1177 (4),CRYSTAL mattY+,23,11774,matt,solidcolor
+1178 (2),CRYSTAL mattY+,23,11782,,
+1180 (3),CRYSTAL mattY+,23,11803,matt,solidcolor
+1181 (2),CRYSTAL mattY+,23,11812,matt,solidcolor
+1185 (3),CRYSTAL mattY+,23,11853,matt,solidcolor
+1186 (2),CRYSTAL mattY+,23,11862,matt,solidcolor
+1248,CRYSTAL mattY+,21,1248,matt,stone
+1249,CRYSTAL mattY+,21,1249,matt,stone
+1250,CRYSTAL mattY+,22,1250,matt,stone
+1251,CRYSTAL mattY+,22,1251,matt,stone
+1258 (3),CRYSTAL mattY+,21,12583,matt,solidcolor vibrant
+1259 (3),CRYSTAL mattY+,22,12593,matt,solidcolor vibrant
+1265 (2),CRYSTAL mattY+,22,12652,matt,vibrant
+1266,CRYSTAL mattY+,23,1266,matt,verticalwood
+1270,CRYSTAL mattY+,23,1270,,
+1271 (2),CRYSTAL mattY+,24,12712,,
+1272 (2),CRYSTAL mattY+,24,12722,,
+1275 (2),CRYSTAL mattY+,22,12752,,
+1276,CRYSTAL mattY+,21,1276,,
+1277,CRYSTAL mattY+,21,1277,,
+1281,CRYSTAL mattY+,24,1281,,
+1282,CRYSTAL mattY+,,1282,,
+1283,CRYSTAL mattY+,,1283,,
+1228,CRYSTAL Z+AG,1228,1228,,vibrant
+1229,CRYSTAL Z+AG,16,1229,,vibrant
+1230,CRYSTAL Z+AG,16,1230,,vibrant
+1129 (3),CRYSTAL Z+AM,19,11291,,solidcolor
+1175 (4),CRYSTAL Z+AM,19,11752,,solidcolor
+1177 (4),CRYSTAL Z+AM,19,11772,,solidcolor
+1179 (3),CRYSTAL Z+AM,19,11792,,solidcolor
+1180 (3),CRYSTAL Z+AM,19,11802,matt,solidcolor
+1183 (2),CRYSTAL Z+AM,19,11832,matt,solidcolor
+1214 (2),CRYSTAL Z+BG,5,12142,,stone
+1215 (2),CRYSTAL Z+BG,5,12152,,stone vibrant
+1240 (2),CRYSTAL Z+BG,5,12402,,stone vibrant
+1210 (2),CRYSTAL Z+BR,12,12102,,verticalwood
+1211 (2),CRYSTAL Z+BR,12,12112,,verticalwood
+1212 (2),CRYSTAL Z+BR,12,12122,,verticalwood
+1112 (7),CRYSTAL Z+CN,18,11122,,
+1144,CRYSTAL Z+CN,18,1144,,
+1146,CRYSTAL Z+CN,18,1146,,
+1147,CRYSTAL Z+CN,18,1147,,
+1164 (4),CRYSTAL Z+CN,18,11642,,
+1166 (5),CRYSTAL Z+CN,18,11662,,
+1188 (2),CRYSTAL Z+CN,18,11882,,
+1191,CRYSTAL Z+MG,17,1191,,solidcolor
+1193 (2),CRYSTAL Z+MG,17,11931,,solidcolor
+1194,CRYSTAL Z+MG,17,1194,,solidcolor
+1196 (2),CRYSTAL Z+MG,17,11961,,solidcolor
+1197 (2),CRYSTAL Z+MG,17,11971,,solidcolor
+1198 (2),CRYSTAL Z+MG,17,11981,,solidcolor
+1258 (3),CRYSTAL Z+MG,17,12582,,solidcolor
+1259 (3),CRYSTAL Z+MG,17,12592,,solidcolor
+1260 (2),CRYSTAL Z+MG,17,12602,,solidcolor
+1242 (2),CRYSTAL Z+OL,13,12422,,
+1245 (2),CRYSTAL Z+OL,13,12452,,
+1246 (2),CRYSTAL Z+OL,13,12462,,
+1267,CRYSTAL Z+OL,13,1267,,
+1268,CRYSTAL Z+OL,13,1268,,
+1269,CRYSTAL Z+OL,13,1269,,
+1129 (3),CRYSTAL Z+PM,20,11292,,solidcolor
+1174 (3),CRYSTAL Z+PM,20,11742,,solidcolor
+1175 (4),CRYSTAL Z+PM,20,11754,,solidcolor
+1177 (4),CRYSTAL Z+PM,20,11773,,solidcolor
+1179 (3),CRYSTAL Z+PM,20,11793,,solidcolor vibrant
+1193 (2),CRYSTAL Z+PM,20,11932,,solidcolor
+1196 (2),CRYSTAL Z+PM,20,11962,,solidcolor
+1197 (2),CRYSTAL Z+PM,20,11972,,solidcolor
+1198 (2),CRYSTAL Z+PM,20,11982,,solidcolor
+1112 (7),CRYSTAL Z+SS,19,11123,matt,solidcolor
+1163 (2),CRYSTAL Z+SS,19,11632,matt,solidcolor
+1166 (5),CRYSTAL Z+SS,19,11663,matt,solidcolor
+1175 (4),CRYSTAL Z+SS,19,11753,matt,solidcolor
+1184 (2),CRYSTAL Z+SS,19,11842,matt,solidcolor
+1185 (3),CRYSTAL Z+SS,19,11852,matt,solidcolor
+1213 (2),CRYSTAL Z+SV,15,12132,matt,stone vibrant
+1227 (2),CRYSTAL Z+SV,15,12272,matt,stone vibrant
+1241,CRYSTAL Z+SV,15,1241,matt,stone vibrant
+1264 (2),CRYSTAL Z+SV,15,12642,glossy,vibrant
+1216,CRYSTAL Z+TT,15,1216,,
+1217,CRYSTAL Z+TT,15,1217,,
+1218,CRYSTAL Z+TT,16,1218,matt,vibrant
+1219,CRYSTAL Z+TT,16,1219,matt,vibrant
+1220,CRYSTAL Z+TT,16,1220,matt,vibrant
+1231,CRYSTAL Z+TT,16,1231,matt,vibrant
+1232,CRYSTAL Z+TT,16,1232,matt,vibrant
+1233,CRYSTAL Z+TT,16,1233,matt,vibrant
+1261 (2),CRYSTAL Z+VG,11,12612,matt,verticalwood vibrant
+1262 (2),CRYSTAL Z+VG,11,12622,matt,verticalwood vibrant
+1263 (2),CRYSTAL Z+VG,11,12632,matt,verticalwood vibrant
+986 (2),CT,64,9861,,horizontalwood
+987 (2),CT,64,9871,,horizontalwood
+442,CV,77,442,matt,fabric
+532,CV,77,532,matt,fabric
+1571,CV,38,1571,matt,fabric
+1572,CV,38,1572,matt,fabric
+1573,CV,38,1573,matt,fabric
+1621,CV,37,1621,matt,fabric
+1622,CV,37,1622,matt,fabric
+1623,CV,37,1623,matt,fabric
+1624,CV,37,1624,matt,fabric
+954,CW,61,954,,
+1446,DD,29,1446,,stone
+81,DJ,85,81,,
+82,DJ,85,82,,
+1106 (3),DL,59,11063,matt,leather fabric solidcolor
+1112 (7),DL,59,11126,matt,leather fabric solidcolor
+1370 (2),DL,59,13702,matt,leather fabric solidcolor
+1106 (3),EG,38,11062,,fabric solidcolor
+1164 (4),EG,38,11644,,fabric solidcolor
+1166 (5),EG,38,11665,,fabric solidcolor
+1344,EO,54,1344,,verticalwood
+1345,EO,54,1345,,verticalwood
+996,EP,62,996,,verticalwood exoticwood
+997,EP,62,997,,verticalwood exoticwood
+998,EP,62,998,,verticalwood exoticwood
+1678,ES,40,1678,,verticalwood exoticwood
+1679,ES,40,1679,,verticalwood exoticwood
+1681,ES,39,1681,,verticalwood exoticwood
+1682,ES,39,1682,,verticalwood exoticwood
+1683,ES,48,1683,,verticalwood exoticwood
+1684,ES,48,1684,,verticalwood exoticwood
+1690 (2),ES,39,16901,matt,verticalwood exoticwood
+1697,ES,39,1697,,verticalwood
+1698,ES,39,1698,matt,verticalwood exoticwood
+1699,ES,40,1699,matt,verticalwood exoticwood
+1700,ES,40,1700,matt,verticalwood exoticwood
+1728,ES,40,1728,,
+1729,ES,40,1729,,
+1730,ES,40,1730,,
+958,EW,63,958,,verticalwood
+959,EW,63,959,,verticalwood
+960,EW,63,960,,verticalwood
+1713,FM,41,1713,,verticalwood
+1714,FM,41,1714,,verticalwood
+1715,FM,41,1715,,verticalwood
+1716,FM,41,1716,,verticalwood
+1726,FM,41,1726,,
+1727,FM,42,1727,,
+1738,FM,41,1738,,
+1739,FM,41,1739,,
+1751,FM,,1751,,
+1752,FM,,1752,,
+1753,FM,,1753,,
+1754,FM,,1754,,
+1755,FM,,1755,,
+1756,FM,,1756,,
+1123 (4),FO,43,11234,matt,
+1680 (2),FO,43,16801,,verticalwood
+1686,FO,43,1686,,verticalwood
+1687,FO,43,1687,,verticalwood
+1496,FT,53,1496,matt,horizontalwood
+1497,FT,53,1497,matt,horizontalwood
+1507,FT,53,1507,matt,horizontalwood exoticwood
+1530,FT,53,1530,matt,horizontalwood
+1709,FT,53,1709,matt,horizontalwood
+1710,FT,53,1710,matt,horizontalwood
+1711,FT,53,1711,matt,horizontalwood
+1712,FT,53,1712,matt,horizontalwood
+1556,GB,28,1556,,stone
+1557,GB,28,1557,,stone
+1558,GB,28,1558,,stone
+1559,GB,28,1559,,stone
+1616,GB,28,1616,,stone
+1617,GB,28,1617,,stone
+1525 (2),GC,29,15251,,stone
+1358,GM,38,1358,glossy,fabric
+1512,GM,38,1512,glossy,fabric
+1513,GM,38,1513,glossy,fabric
+1475,GS,31,1475,,stone
+1476,GS,31,1476,,stone
+1554 (2),GS,31,15541,,
+1555 (2),GS,31,15551,,
+1633,GS,31,1633,,stone
+1701 (2),GS,31,17011,,vibrant
+1702 (2),GS,31,17021,,vibrant
+412,HB,63,412,,verticalwood exoticwood
+937,HB,63,937,,verticalwood
+939,HB,63,939,,verticalwood
+132 (9),HC,73,1325,glossy,solidcolor vibrant
+905 (3),HC,73,9052,glossy,vibrant
+7001,HD,,7001,glossy,stone
+7003,HD,,7003,,stone
+7004,HD,,7004,,verticalwood exoticwood vibrant
+7005,HD,,7005,matt,stone vibrant
+7006,HD,,7006,,stone exoticwood vibrant
+7007,HD,,7007,matt,stone exoticwood vibrant
+7008,HD,,7008,,verticalwood exoticwood vibrant
+7009,HD,,7009,,verticalwood exoticwood vibrant
+7010,HD,,7010,,verticalwood exoticwood vibrant
+7011,HD,,7011,matt,verticalwood exoticwood vibrant
+7012,HD,,7012,,fabric
+7013,HD,,7013,,fabric
+7014,HD,,7014,,fabric
+7015,HD,,7015,,fabric vibrant
+7016,HD,,7016,matt,vibrant
+7018,HD,,7018,,fabric
+7019,HD,,7019,,
+7020,HD,,7020,,verticalwood exoticwood vibrant
+7021,HD,,7021,,
+7022,HD,,7022,,fabric vibrant
+7023,HD,,7023,,fabric
+7024,HD,,7024,glossy,vibrant
+7025,HD,,7025,glossy,vibrant
+7026,HD,,7026,,vibrant
+7027,HD,,7027,,fabric vibrant
+7028,HD,,7028,,vibrant
+7029,HD,,7029,,
+7031,HD,,7031,,
+7032,HD,,7032,,
+7033,HD,,7033,,fabric vibrant
+7034,HD,,7034,,stone vibrant
+7035,HD,,7035,,fabric
+7036,HD,,7036,,exoticwood vibrant
+7037,HD,,7037,matt,stone vibrant
+7038,HD,,7038,,vibrant
+7039,HD,,7039,,vibrant
+7040,HD,,7040,,vibrant
+7041,HD,,7041,,vibrant
+7042,HD,,7042,,vibrant
+7043,HD,,7043,,vibrant
+7044,HD,,7044,,
+7045,HD,,7045,,
+7046,HD,,7046,,
+7047,HD,,7047,,
+7048,HD,,7048,,
+7049,HD,,7049,,
+7050,HD,,7050,,
+7051,HD,,7051,,
+7052,HD,,7052,,
+56,HRD,70,56,,horizontalwood exoticwood
+57,HRD,70,57,,horizontalwood exoticwood
+421,HRD,72,421,matt,horizontalwood
+422,HRD,72,422,matt,horizontalwood
+423,HRD,72,423,matt,horizontalwood
+457,HRD,72,457,matt,horizontalwood exoticwood
+458,HRD,72,458,matt,horizontalwood exoticwood
+558,HRD,,558,,
+559,HRD,,559,,
+560,HRD,,560,,
+903 (2),HRD,72,9031,matt,horizontalwood
+904 (2),HRD,72,9041,matt,horizontalwood
+905 (3),HRD,72,9051,matt,horizontalwood
+979,HRD,71,979,,horizontalwood
+980,HRD,71,980,matt,
+1338,HT,58,1338,,verticalwood exoticwood
+1339,HT,58,1339,,verticalwood exoticwood
+1340,HT,58,1340,,verticalwood exoticwood
+1365 (2),HT,30,13651,,exoticwood
+1378,HT,58,1378,,verticalwood exoticwood
+1428,HT,58,1428,,verticalwood
+1433 (2),HTR,55,14332,,verticalwood horizontalwoodorizontalwood exoticwood
+1434 (2),HTR,55,14342,,horizontalwood exoticwood
+1435 (2),HTR,55,14352,,horizontalwood exoticwood
+1618,HTR,54,1618,,horizontalwood exoticwood
+1619 (3),HTR,54,16191,,horizontalwood exoticwood
+1161 (3),IB,36,11613,matt,stone solidcolor vibrant
+1614,IB,36,1614,matt,stone vibrant
+1629,IB,36,1629,matt,stone vibrant
+1630 (2),IB,36,16302,matt,stone vibrant
+408,JD,72,408,,horizontalwood
+409,JD,72,409,,horizontalwood
+1645,JT,37,1645,matt,fabric vibrant
+1646,JT,37,1646,matt,fabric vibrant
+1647,JT,37,1647,matt,fabric vibrant
+1648,JT,37,1648,matt,fabric vibrant
+48 (3),JW,67,48200,matt,verticalwood
+58 (2),JW,67,581,matt,verticalwood
+59,JW,67,59,,verticalwood
+60 (2),JW,67,60100,matt,verticalwood
+1321,KP,56,1321,,verticalwood
+1395 (3),KP,56,13952,,verticalwood
+1531,KP,56,1531,,verticalwood
+1532,KP,56,1532,,verticalwood
+1547,KP,56,1547,,verticalwood
+1638,KP,56,1638,,verticalwood
+1639,KP,56,1639,,verticalwood
+1640,KP,56,1640,,verticalwood
+1661,LG,45,1661,,verticalwood
+1662,LG,45,1662,,verticalwood
+1663,LG,45,1663,,verticalwood
+1664,LG,45,1664,,verticalwood
+466 (2),LM,76,4662,,stone
+525 (2),LM,76,5252,,stone
+526 (2),LM,76,5262,,stone
+527 (2),LM,76,5272,,stone
+537,LM,76,537,,
+1426,LN,37,1426,,fabric
+1427,LN,37,1427,,fabric
+1560,LN,38,1560,,fabric
+1561,LN,38,1561,,fabric
+1562,LN,38,1562,,fabric
+1102,LS,25,1102,,solidcolor
+1104 (4),LS,25,11043,,solidcolor
+1105 (2),LS,25,11052,,solidcolor
+1111 (2),LS,25,11112,,solidcolor
+1112 (7),LS,25,11124,,solidcolor
+1119 (2),LS,25,11192,,solidcolor
+1120 (2),LS,25,11202,,solidcolor
+1129 (3),LS,25,11293,,solidcolor
+1413,LS,52,1413,,verticalwood exoticwood
+1414,LS,52,1414,,verticalwood exoticwood
+1436,LS,52,1436,,verticalwood solidcolor
+1437,LS,52,1437,,verticalwood
+1438,LS,52,1438,,verticalwood
+1467,LS,52,1467,,verticalwood
+1336,MF,52,1336,,verticalwood
+1394,MF,56,1394,,verticalwood
+1395 (3),MF,52,13951,,verticalwood
+1447,MF,32,1447,,stone
+1449,MF,32,1449,,stone
+1458,MK,53,1458,matt,horizontalwood
+1459,MK,53,1459,matt,horizontalwood
+1703,MM,50,1703,,verticalwood
+1704,MM,50,1704,,verticalwood
+1705,MM,50,1705,,verticalwood
+1706,MM,50,1706,,verticalwood
+1707,MM,50,1707,,verticalwood
+1708,MM,50,1708,,verticalwood
+1717,MM,42,1717,,verticalwood
+1718,MM,42,1718,,verticalwood
+1719,MM,42,1719,,verticalwood
+1720,MM,42,1720,,verticalwood
+1656,MP,46,1656,,verticalwood
+1657,MP,46,1657,,verticalwood
+1658,MP,46,1658,,verticalwood
+1659,MP,46,1659,,verticalwood
+1104 (4),MQ,59,11044,,solidcolor vibrant
+1112 (7),MQ,59,11127,,vibrant
+1380,MQ,59,1380,,
+1395 (3),MQ,59,13953,,vibrant
+1587,MR,35,1587,matt,stone vibrant
+1588,MR,35,1588,matt,stone vibrant
+1589,MR,35,1589,matt,stone vibrant
+1628 (2),MR,35,16281,matt,stone vibrant
+955,MS,63,955,,verticalwood exoticwood
+956,MS,63,956,,verticalwood exoticwood
+957,MS,63,957,,verticalwood exoticwood
+548,MT,76,548,,stone
+549,MT,76,549,,stone
+550,MT,76,550,,
+1538,MT,32,1538,matt,stone
+1660,MT,32,1660,matt,stone
+1734,MT,32,1734,,
+1735,MT,32,1735,,
+1736,MT,32,1736,,
+1737,MT,32,1737,,
+436,MV,67,436,,verticalwood
+437,MV,67,437,,verticalwood
+440 (3),MV,67,4401,,verticalwood
+485 (2),MV,67,4851,,verticalwood
+533 (2),MV,67,5331,matt,verticalwood exoticwood
+254,MW,62,254,,verticalwood
+255,MW,62,255,,verticalwood
+256,MW,62,256,,verticalwood
+257,MW,62,257,,verticalwood
+964,NC,62,964,,verticalwood
+965,NC,62,965,,verticalwood
+966,NC,62,966,,verticalwood
+8001 (2),NM,26,80012,matt,solidcolor
+8002 (2),NM,26,80022,matt,
+8003,NM,26,8003,matt,solidcolor
+8006,NM,26,8006,matt,solidcolor
+8007 (2),NM,26,80071,matt,solidcolor
+8008 (2),NM,26,80082,matt,solidcolor
+8009 (2),NM,26,80092,matt,solidcolor
+8010 (2),NM,26,80101,matt,solidcolor
+8011 (2),NM,26,80112,matt,solidcolor
+8012 (2),NM,26,80122,matt,solidcolor
+8001 (2),NM-BL,26,80011,matt,leather solidcolor
+8002 (2),NM-BL,26,80021,matt,leather solidcolor
+8007 (2),NM-BL,26,80072,matt,leather solidcolor
+8008 (2),NM-BL,26,80081,matt,leather solidcolor
+8009 (2),NM-BL,26,80091,matt,leather solidcolor
+8010 (2),NM-BL,26,80102,matt,leather solidcolor
+8011 (2),NM-BL,26,80111,matt,leather solidcolor
+8012 (2),NM-BL,26,80121,matt,leather solidcolor
+1691,OC,38,1691,glossy,vibrant
+1692,OC,38,1692,matt,vibrant
+1595,OP,57,1595,,verticalwood
+1597,OP,57,1597,,verticalwood
+1598,OP,57,1598,,verticalwood exoticwood
+1601,OP,57,1601,,verticalwood exoticwood
+1602,OP,57,1602,,verticalwood exoticwood
+1603,OP,57,1603,,verticalwood exoticwood
+1612,OP,57,1612,,verticalwood exoticwood
+1631,OP,57,1631,,verticalwood exoticwood
+1632,OP,57,1632,,verticalwood exoticwood
+1520,OR,27,1520,,stone
+1521,OR,27,1521,,stone
+1522,OR,27,1522,,stone
+1523,OR,27,1523,,stone
+1605,OR,27,1605,,stone
+1613 (2),OR,27,16131,,stone
+1742,OR,27,1742,,
+1106 (3),PD,35,11061,glossy,stone solidcolor
+1123 (4),PD,35,11233,glossy,stone solidcolor
+1172 (2),PD,35,11722,glossy,stone solidcolor
+1370 (2),PD,35,13701,glossy,stone
+260,PT,67,260,,verticalwood
+27 (3),PU,73,272,glossy,
+58 (2),PU,73,582,glossy,
+60 (2),PU,73,60200,glossy,
+129 (3),PU,78,1292,glossy,solidcolor
+132 (9),PU,78,1327,glossy,solidcolor
+138 (2),PU,78,1381,glossy,solidcolor
+231 (2),PU,78,2311,glossy,solidcolor
+236 (2),PU,78,2361,glossy,solidcolor
+242 (2),PU,78,2421,,
+243 (2),PU,78,2432,,
+244 (2),PU,78,2442,,
+250 (3),PU,78,2501,glossy,solidcolor
+251,PU,73,251,glossy,verticalwood
+420,PU,73,420,glossy,verticalwood exoticwood
+425 (2),PU,74,4251,glossy,stone
+440 (3),PU,73,4402,,
+466 (2),PU,74,4661,glossy,stone
+467,PU,74,467,glossy,stone
+468,PU,74,468,glossy,stone
+469,PU,74,469,glossy,stone
+506 (2),PU,73,5062,glossy,exoticwood
+507 (2),PU,73,5072,glossy,exoticwood
+525 (2),PU,74,5251,glossy,stone
+526 (2),PU,74,5261,glossy,stone
+527 (2),PU,74,5271,glossy,vibrant
+531,PU,74,531,glossy,vibrant
+533 (2),PU,73,5332,,
+562,PU,,562,,
+718,PU,74,718,glossy,stone vibrant
+1331,PU,33,1331,glossy,stone
+1333,PU,33,1333,glossy,stone
+1334,PU,33,1334,,
+1335,PU,33,1335,glossy,stone
+1351,PU,59,1351,glossy,vibrant
+1352,PU,59,1352,glossy,vibrant
+1365 (2),PU,34,13652,glossy,stone
+1390,PU,60,1390,glossy,verticalwood exoticwood
+1503,PU,60,1503,glossy,verticalwood exoticwood
+1524,PU,33,1524,glossy,stone
+1525 (2),PU,33,15252,glossy,stone
+1554 (2),PU,33,15542,,
+1555 (2),PU,33,15552,,
+1579,PU,60,1579,glossy,vibrant
+1580,PU,60,1580,glossy,vibrant
+1613 (2),PU,34,16132,glossy,stone
+1618 (2),PU,60,16182,glossy,verticalwood exoticwood
+1619 (3),PU,60,16193,glossy,verticalwood exoticwood
+1626,PU,60,1626,glossy,verticalwood exoticwood
+1627,PU,60,1627,glossy,verticalwood exoticwood
+1628 (2),PU,60,16282,glossy,verticalwood
+1634,PU,33,1634,glossy,stone
+1635 (2),PU,33,16352,glossy,stone
+1636,PU,33,1636,glossy,stone
+1637 (2),PU,33,16372,glossy,stone
+1690 (2),PU,60,16902,glossy,verticalwood exoticwood
+1701 (2),PU,34,17012,,
+1702 (2),PU,34,17022,,
+1721 (2),PU,34,17212,,
+1722 (2),PU,34,17222,,
+1723,PU,34,1723,,
+1724,PU,34,1724,,
+053D (2),PU,78,53410,glossy,solidcolor
+1577A,PU,60,157710,glossy,vibrant
+719A,PU,74,71910,glossy,stone vibrant
+26 (2),RD,70,261,,verticalwood
+27 (3),RD,70,271,,verticalwood
+31,RD,72,31,,verticalwood
+33 (2),RD,72,331,,verticalwood
+34,RD,69,34,,verticalwood
+35,RD,69,35,,verticalwood
+36,RD,69,36,,verticalwood
+37,RD,69,37,,verticalwood
+63,RD,72,63,,verticalwood
+64,RD,72,64,,verticalwood
+65,RD,72,65,,verticalwood
+132 (9),RD,72,1323,,verticalwood
+431,RD,69,431,,verticalwood solidcolor
+432,RD,69,432,,verticalwood
+510,RD,70,510,,verticalwood exoticwood
+536,RD,69,536,,verticalwood
+543,RD,69,543,,
+561,RD,,561,,
+604 (2),RD,70,6041,,
+938,RD,69,938,,verticalwood
+978,RD,70,978,,verticalwood
+989,RD,68,989,,verticalwood
+993,RD,70,993,,verticalwood
+995,RD,70,995,,verticalwood
+1502,RD,56,1502,,
+430A,RD,69,43010,,verticalwood
+1367,RL,55,1367,matt,leather fabric
+1369,RL,55,1369,matt,leather fabric
+1421,RM,32,1421,,fabric
+62,RN-CF,85,62,,fabric
+69,RN-CF,85,69,,fabric
+70,RN-CF,85,70,,fabric
+71,RN-CF,85,71,,fabric
+72,RN-CF,85,72,,fabric
+73,RN-CF,85,73,,fabric
+74,RN-CF,85,74,,fabric
+75,RN-CF,85,75,,stone
+76,RN-CF,85,76,,stone
+77,RN-CF,85,77,,stone
+78,RN-CF,85,78,,
+79,RN-CF,85,79,,
+80,RN-CF,85,80,matt,exoticwood
+83,RN-CF,85,83,matt,
+91,RN-CF,85,91,,
+92,RN-CM,85,92,,
+1581,RO,51,1581,matt,verticalwood
+1583,RO,51,1583,matt,verticalwood
+1457,RR,56,1457,,exoticwood
+1649,RT,46,1649,,verticalwood
+1650,RT,46,1650,,verticalwood
+936A,RV,68,93610,matt,verticalwood
+478 (2),RW,71,4781,matt,horizontalwood
+479 (2),RW,71,4791,matt,horizontalwood
+513,RW,71,513,matt,horizontalwood
+514,RW,71,514,matt,horizontalwood
+515,RW,71,515,matt,horizontalwood
+516,RW,71,516,matt,horizontalwood
+517,RW,71,517,matt,horizontalwood
+518,RW,71,518,matt,horizontalwood
+1388 (2),SB,50,13881,matt,verticalwood
+1389 (2),SB,50,13891,matt,verticalwood
+1533,SB,49,1533,matt,verticalwood
+1534,SB,49,1534,matt,verticalwood
+1550,SB,51,1550,matt,verticalwood
+493,SF,83,493,matt,verticalwood exoticwood
+494,SF,83,494,matt,verticalwood exoticwood
+495,SF,83,495,matt,verticalwood exoticwood
+496,SF,83,496,matt,verticalwood exoticwood
+497,SF,83,497,matt,verticalwood exoticwood
+498,SF,83,498,matt,verticalwood exoticwood
+499,SF,83,499,matt,verticalwood exoticwood
+601,SF,83,601,matt,verticalwood exoticwood
+602 (2),SF,83,6021,matt,verticalwood exoticwood
+603,SF,83,603,matt,verticalwood exoticwood
+604 (2),SF,83,6042,,
+1761,SL,,1761,,
+1762,SL,,1762,,
+1763,SL,,1763,,
+111,SM,78,111,,solidcolor
+129 (3),SM,78,1291,matt,solidcolor
+132 (9),SM,78,1326,matt,solidcolor
+184 (2),SM,78,1841,,solidcolor
+238,SM,78,238,matt,solidcolor
+239,SM,78,239,matt,solidcolor
+241,SM,78,241,,
+242 (2),SM,78,2422,,
+243 (2),SM,78,2431,,
+244 (2),SM,78,2441,,
+425 (2),SM,75,4252,matt,stone
+446,SM,77,446,matt,fabric
+447,SM,77,447,matt,fabric
+449,SM,75,449,matt,stone
+451,SM,75,451,matt,stone
+511,SM,76,511,matt,vibrant
+512,SM,76,512,matt,vibrant
+528,SM,75,528,matt,vibrant
+529,SM,75,529,matt,vibrant
+534,SM,77,534,,fabric
+535,SM,77,535,,fabric
+544,SM,75,544,,
+545,SM,75,545,glossy,stone vibrant
+546,SM,75,546,glossy,stone vibrant
+551,SM,75,551,matt,stone
+552,SM,75,552,matt,stone
+556,SM,77,556,,
+557,SM,77,557,,
+1731,SM,47,1731,,
+1732,SM,47,1732,,
+1733,SM,47,1733,,
+1740,SM,47,1740,,
+483 (2),SN,68,4831,matt,verticalwood exoticwood
+484 (2),SN,68,4841,matt,verticalwood exoticwood
+547,SN,68,547,matt,verticalwood
+602 (2),SN,,6022,,
+990,SN,68,990,matt,verticalwood
+991,SN,68,991,matt,verticalwood
+1487,SP,56,1487,,exoticwood
+1488,SP,56,1488,,exoticwood
+1489,SP,56,1489,,exoticwood
+264,ST,77,264,glossy,solidcolor vibrant
+265,ST,77,265,glossy,solidcolor vibrant
+1665,SV,48,1665,,verticalwood
+1666,SV,48,1666,,verticalwood
+1667,SV,48,1667,,verticalwood
+1668,SV,48,1668,,verticalwood
+48 (3),SW,61,48100,,verticalwood
+424,SW,61,424,,verticalwood
+454,SW,61,454,,verticalwood
+524,SW,61,524,,verticalwood
+961,SW,61,961,,verticalwood
+962,SW,61,962,,verticalwood
+1407,TC,58,1407,,verticalwood exoticwood
+1408,TC,58,1408,,verticalwood exoticwood
+1430,TC,58,1430,,verticalwood
+1432,TC,58,1432,,verticalwood
+1112 (7),TL,54,11125,,horizontalwood solidcolor
+1433 (2),TL,54,14331,,horizontalwood
+1434 (2),TL,54,14341,,horizontalwood
+1435 (2),TL,54,14351,,
+501,TO,65,501,,verticalwood
+502,TO,65,502,,verticalwood
+503,TO,65,503,,verticalwood
+505,TO,65,505,,
+506 (2),TO,65,5061,,verticalwood
+507 (2),TO,65,5071,,verticalwood
+519,TO,66,519,,verticalwood
+520,TO,66,520,,verticalwood
+553,TO,65,553,,
+554,TO,65,554,,
+569,TO,,569,,
+1563,TR,55,1563,,verticalwood exoticwood
+1564,TR,55,1564,,verticalwood exoticwood
+1565,TR,55,1565,,verticalwood exoticwood
+1618 (2),TR,54,16181,,verticalwood exoticwood
+1619 (3),TR,54,16192,,verticalwood exoticwood
+1680 (2),TV,44,16802,,verticalwood
+1688,TV,44,1688,,verticalwood exoticwood solidcolor
+1689,TV,44,1689,,exoticwood
+1693,TV,44,1693,,verticalwood exoticwood
+1694,TV,44,1694,,verticalwood exoticwood
+1695,TV,44,1695,,verticalwood exoticwood
+1696,TV,44,1696,,verticalwood
+1388 (2),TW,55,13882,,verticalwood
+1389 (2),TW,55,13892,,verticalwood
+1574,VS,36,1574,,stone fabric
+1575,VS,36,1575,,stone fabric
+1576,VS,36,1576,,stone fabric
+1615,VS,36,1615,,stone fabric
+1508,VW,51,1508,matt,verticalwood
+1549,VW,51,1549,,
+1566,VW,51,1566,matt,verticalwood exoticwood
+1567,VW,51,1567,matt,verticalwood exoticwood
+1611,VW,49,1611,matt,verticalwood exoticwood
+1671,VW,49,1671,matt,verticalwood exoticwood
+1672,VW,49,1672,matt,verticalwood exoticwood
+1673,VW,49,1673,matt,verticalwood exoticwood
+1674,VW,49,1674,matt,verticalwood exoticwood
+1592,WB,55,1592,,verticalwood exoticwood
+1593,WB,55,1593,,verticalwood exoticwood
+1600,WB,55,1600,,verticalwood exoticwood
+132 (9),WD,64,132100,,verticalwood solidcolor
+583 (2),WD,64,5831,,verticalwood
+992 (2),WD,64,9921,,verticalwood
